@@ -1,0 +1,2 @@
+belal = "person"
+print(belal)
