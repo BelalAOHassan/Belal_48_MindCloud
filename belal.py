@@ -1,2 +1,4 @@
-belal = "person"
-print(belal)
+dictionary = {"name":"Belal","Age":"20"}
+print(dictionary)
+
+
