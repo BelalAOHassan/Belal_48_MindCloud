@@ -1,9 +1,8 @@
 
-dictionary = {"name":"Belal","Age":"20"}
-print(dictionary)
 
-college = "Alex Uni for Engineering"
-print(college)
+for x in range(0,4): 
+ print("hello world")
+ 
 
 
 
