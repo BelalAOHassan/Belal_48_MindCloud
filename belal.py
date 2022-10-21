@@ -1,9 +1,14 @@
 
-dictionary = {"name":"Belal","Age":"20"}
-print(dictionary)
 
-college = "Alex Uni for Engineering"
-print(college)
+personal_Data = {
+"Name":"Belal",
+"Age":20 ,
+"dept":"POWER"
+,
+"graduation year":
+2025}
+
+print(personal_Data)
 
 
 
